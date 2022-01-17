@@ -27,9 +27,9 @@
 * Language: Python3
 * Codestyle: PEP8
 * Language: C
-* Compiler: GCC
+* Compiler: GCC 9.3.3
 * Code style: Betty
-* Language: Ruby
+* Language: Ruby 2.7.5
 * Sandbox environment: Ubuntu 20.04 - NodeJS 14
 
 <!-- semistandard -->
