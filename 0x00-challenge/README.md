@@ -1,4 +1,4 @@
-#  Fix my code
+# 0x00. Fix my code
 
 ## Learning Objectives
 
@@ -12,13 +12,11 @@
 
 ## Environment
 
-<div>
-<!-- Ubuntu --> <a href="https://ubuntu.com/" target="_blank"><img height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/ubuntu-icon.svg" alt="Ubuntu"> </a> <!-- GNU Bash --> <a href="https://www.vim.org/" target="_blank"><img height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/gnu-bash-logo.svg" alt="GNU Bash"> <!-- Vim --> <a href="https://www.vim.org/" target="_blank"><img height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Vimlogo.svg" alt="Vim text editor"> </a> <!-- JavaScript --> <a href="https://www.javascript.com/" target="_blank"><img height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/logo-javascript.svg" alt="JavaScript" > </a>
-<!-- Python --> <a  href="https://www.python.org/" target="_blank"><img  height="24px"  src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/python-logo-inkscape.svg"  alt="C programming language"  ></a>
-<!-- C --> <a href="https://www.cprogramming.com/"><img height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/language_c-programming.svg" alt="C programming language"></a>
-<!-- Ruby --> <a href="https://www.ruby-lang.org/"><img height="24px" src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/Ruby_logo.svg" alt="Ruby programming language"></a>
-
-</div>
+<!-- c -->
+[![C](https://img.shields.io/static/v1?label=&message=C%20Language&color=5C6BC0&logo=c&logoColor=A8B9CC&labelColor=2F333A)](https://www.cprogramming.com/) <!-- python-->
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A)](https://www.python.org) <!-- ruby -->
+[![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=CC342D&logo=ruby&logoColor=E74C3C&labelColor=2F333A)](https://www.ruby-lang.org) <!-- JS -->
+[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B830&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)
 
 * OS: Ubuntu 20.04 LTS
 * Terminal: Bash
@@ -32,10 +30,44 @@
 * Compiler: GCC
 * Code style: Betty
 * Language: Ruby
+* Sandbox environment: Ubuntu 20.04 - NodeJS 14
 
-<div>
-<!-- semistandard --> <a href="https://github.com/standard/semistandard" target="_blank"><img height="24px" src="https://raw.githubusercontent.com/standard/semistandard/master/badge.svg" alt="Semistandard Code Style" > </a>
-</div>
+<!-- semistandard -->
+[![Semi-Standard](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
+## Run de code
+
+```bash
+root@fa72151d65b6:/# ./0-fizzbuzz.py 50
+1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26 Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz Buzz 41 Fizz 43 44 FizzBuzz 46 47 Fizz 49 Buzz
+root@fa72151d65b6:/#
+```
+
+```bash
+root@fa72151d65b6:/# ./1-print_square.js 4
+####
+####
+####
+####
+root@fa72151d65b6:/# ./1-print_square.js 10
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+root@fa72151d65b6:/#
+```
 
 ## Autor
 
@@ -43,15 +75,5 @@
 
 ## Connect
 
-<br>
-<div>
-<!-- Twitter -->
-<a href="https://twitter.com/ralex_uy" target="_blank"> <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social"/> </a>
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank"> <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin"/> </a>
-<!-- Github -->
-<a href="https://github.com/ralexrivero/" target="_blank"> <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
-<!-- Vagrant up -->
-<a href="https://app.vagrantup.com/ralexrivero" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A" alt="Vagrantup profile"></a>
-</br>
-</div>
+<!-- twitter -->
+[![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+21K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- github --> [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- vagrant --> [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- docker --> [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
