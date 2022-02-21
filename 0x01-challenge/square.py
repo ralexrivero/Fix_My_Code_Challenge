@@ -21,7 +21,7 @@ class square():
 
 
 if __name__ == "__main__":
-
+    """ main function """
     s = square(width=12, height=9)
     print(s)
     print(s.area_of_my_square())
