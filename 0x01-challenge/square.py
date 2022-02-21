@@ -2,6 +2,8 @@
 """
 square class
 """
+
+
 class square():
     """ square class """
     width = 0
